@@ -13,4 +13,4 @@ AstRyden Dev Server - https://discord.gg/RuEWJ2hANV
 
 AstRyden Dev Website - https://AstRyden.tk
 
-Email Us - help-desk@astryden.tk
+Email Us -     help-desk@astryden.tk
